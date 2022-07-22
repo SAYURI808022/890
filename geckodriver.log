@@ -1,0 +1,162 @@
+1658478094935	geckodriver	INFO	Listening on 127.0.0.1:56897
+1658478094995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56898" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofile0MKIze"
+1658478096598	Marionette	INFO	Marionette enabled
+2022-07-22 16:21:36.689 plugin-container[21974:897839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:21:36.690 plugin-container[21974:897839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478096695	Marionette	INFO	Listening on port 56904
+WebDriver BiDi listening on ws://localhost:56898
+2022-07-22 16:21:36.722 plugin-container[21974:897839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:21:36.722 plugin-container[21974:897839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:21:36.723 plugin-container[21974:897865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:21:36.723 plugin-container[21974:897865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 56904
+1658478097364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofile0MKIze/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56898/devtools/browser/5c228a56-f78b-414c-be14-0372ffb6325f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658478142079	Marionette	INFO	Stopped listening on port 56904
+1658478143206	geckodriver	INFO	Listening on 127.0.0.1:56952
+1658478143720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56953" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileyAjfP4"
+1658478144947	Marionette	INFO	Marionette enabled
+1658478145020	Marionette	INFO	Listening on port 56960
+WebDriver BiDi listening on ws://localhost:56953
+Read port: 56960
+2022-07-22 16:22:25.090 plugin-container[21991:898640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:25.091 plugin-container[21991:898640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:22:25.128 plugin-container[21991:898640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:25.128 plugin-container[21991:898640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:22:25.129 plugin-container[21991:898620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:25.129 plugin-container[21991:898620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478145853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileyAjfP4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56953/devtools/browser/b7774daa-0ec1-4777-ab4b-a4103c7a916f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658478175610	Marionette	INFO	Stopped listening on port 56960
+1658478176823	geckodriver	INFO	Listening on 127.0.0.1:57013
+1658478177308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57014" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofile1xHxak"
+2022-07-22 16:22:58.792 plugin-container[21999:899216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:58.793 plugin-container[21999:899216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478178816	Marionette	INFO	Marionette enabled
+1658478178852	Marionette	INFO	Listening on port 57021
+WebDriver BiDi listening on ws://localhost:57014
+2022-07-22 16:22:58.871 plugin-container[21999:899216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:58.871 plugin-container[21999:899216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:22:58.873 plugin-container[21999:899239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:22:58.873 plugin-container[21999:899239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57021
+1658478179215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofile1xHxak/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57014/devtools/browser/6e3f9063-0e2e-4244-8436-c8e53568ca3e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658478208046	Marionette	INFO	Stopped listening on port 57021
+1658478209266	geckodriver	INFO	Listening on 127.0.0.1:57068
+1658478209774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57069" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileWUbjBy"
+2022-07-22 16:23:31.044 plugin-container[22007:899891] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:23:31.074 plugin-container[22007:899891] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478211125	Marionette	INFO	Marionette enabled
+2022-07-22 16:23:31.173 plugin-container[22007:899891] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:23:31.173 plugin-container[22007:899891] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:23:31.174 plugin-container[22007:899898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:23:31.174 plugin-container[22007:899898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478211209	Marionette	INFO	Listening on port 57076
+Read port: 57076
+WebDriver BiDi listening on ws://localhost:57069
+1658478211852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileWUbjBy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57069/devtools/browser/54b3c25a-9e9f-4890-b77d-a8561a825106
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://asia.pokemon-card.com"
+1658478239332	Marionette	INFO	Stopped listening on port 57076
+1658478240636	geckodriver	INFO	Listening on 127.0.0.1:57122
+1658478241150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57123" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileB2piz9"
+1658478242467	Marionette	INFO	Marionette enabled
+2022-07-22 16:24:02.641 plugin-container[22024:900705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:24:02.641 plugin-container[22024:900705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478242661	Marionette	INFO	Listening on port 57130
+WebDriver BiDi listening on ws://localhost:57123
+Read port: 57130
+2022-07-22 16:24:02.841 plugin-container[22024:900705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:24:02.841 plugin-container[22024:900705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-22 16:24:02.872 plugin-container[22024:900725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-22 16:24:02.872 plugin-container[22024:900725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1658478243501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vn/m4l9xpx55q5fs4ztblw9hn180000gn/T/rust_mozprofileB2piz9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57123/devtools/browser/5d7fab60-2534-4c37-b7fa-499b4faa2ad6
+1658478256503	Marionette	INFO	Stopped listening on port 57130
